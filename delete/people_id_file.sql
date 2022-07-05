@@ -1,0 +1,1 @@
+DELETE from file WHERE people_id;
