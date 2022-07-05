@@ -1,6 +1,7 @@
 # TRABALHO FINAL – PROJETO INTEGRADOR III
 
-### Atividade realizada na disciplina de Banco de Dados.
+### Atividade representa um mini-mundo de um app para divulgação de vagas em imóveis para alugar. 
+### As pessoas que moram no imóvel, podem divulgar um espaço que não esteja sendo utilizado, para outras pessoas manifestarem interesse em dividir o imóvel com os que já nele moram. Nesse banco, as pessoas que ja moraram no imóvel, podem dar feedback e uma avaliação do local.
 
 ## Instruções executadas
 ### 1. Elabore um estudo de caso para um Sistema de Banco de Dados de sua preferência.
